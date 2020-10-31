@@ -6,7 +6,7 @@
 </h3>
 
 <br><br>
-
+<font SIZE="5">
 1. Misión: <br>
 Nuestra misión es satisfacer las necesidades de todos nuestros clientes y  partner así como también de nuestros
 trabajadores, con el objetivo de maximizar la eficiencia y optimizar la rentabilidad a través de nuestra  diferenciación
@@ -30,3 +30,4 @@ elpapayal@fruteria.com<br>
         background-color: #cccccc;
     }
 </style>
+</font>
