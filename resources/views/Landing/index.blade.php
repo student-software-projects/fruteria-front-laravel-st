@@ -5,7 +5,7 @@
     <a href="{{route('Landing.acercade')}}">acercade</a>||</h3>
 
 <br><br>
-    <font SIZE="7">
+    <font SIZE="5">
 1. Pitaya:<br>
     Conocida como «fruta del dragón», se trata del fruto que dan algunas especies de cactus.
     Es originaria de México, pero también se cultiva con éxito en algunos países del sudeste asiático.<br><br>
